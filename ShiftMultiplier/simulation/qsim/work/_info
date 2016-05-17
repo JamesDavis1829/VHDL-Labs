@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/crims_000/Documents/VHDL Labs/project/simulation/qsim
+vIntegerMultiplier
+Z1 !s110 1460491402
+!i10b 1
+!s100 GiQ6acK_L1D`H:APGSSWF2
+IbN<=lZecEHBnPVi:XiN721
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1460491399
+8IntegerMultiplier.vo
+FIntegerMultiplier.vo
+L0 32
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1460491402.062000
+!s107 IntegerMultiplier.vo|
+!s90 -work|work|IntegerMultiplier.vo|
+!i113 1
+Z4 o-work work
+n@integer@multiplier
+vIntegerMultiplier_vlg_check_tst
+R1
+!i10b 1
+!s100 7FJ9NYMPPGj7AHmkzU>7=3
+ImGh@MoeSM<g8eGKYl0gM@3
+R2
+R0
+Z5 w1460491396
+Z6 8Waveform.vwf.vt
+Z7 FWaveform.vwf.vt
+L0 64
+R3
+r1
+!s85 0
+31
+Z8 !s108 1460491402.281000
+Z9 !s107 Waveform.vwf.vt|
+Z10 !s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R4
+n@integer@multiplier_vlg_check_tst
+vIntegerMultiplier_vlg_sample_tst
+R1
+!i10b 1
+!s100 KBNBzXba:Eb0_8I^9[hh@1
+IKUk3z5>5C2NDl_>4Io@ld2
+R2
+R0
+R5
+R6
+R7
+L0 30
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+n@integer@multiplier_vlg_sample_tst
+vIntegerMultiplier_vlg_vec_tst
+R1
+!i10b 1
+!s100 o@^g[X2@:FZMNFokEZQm32
+IK^Rkg?1GO0za2Vjh1`>UU1
+R2
+R0
+R5
+R6
+R7
+L0 503
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+n@integer@multiplier_vlg_vec_tst
